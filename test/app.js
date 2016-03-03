@@ -1,7 +1,7 @@
 'use strict';
 
 // Includes
-var server  = require('../../server');
+var server  = require('../server');
 var request = require('supertest');
 var Lab     = require('lab');
 var Code = require('code');
